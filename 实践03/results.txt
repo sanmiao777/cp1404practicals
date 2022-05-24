@@ -1,5 +1,0 @@
-59 is Passable
-28 is Bad
-97 is Excellent
-40 is Bad
-83 is Passable
